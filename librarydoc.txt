@@ -1,0 +1,13 @@
+1,To Kill a Mockingbird,Harper Lee
+2,1984,George Orwell
+3,The Great Gatsby,F. Scott Fitzgerald
+4,Mistborn,Sanderson
+6,Black Swan Green,David Mitchell
+7,Bible,Jesus
+8,Fault In Our Stars,John Green
+9,Throne of Glass,Sarah J Maas
+10,Hobbit,Tolkien
+11,Prisoner,Rowling
+12,Assassin's Blade,Sarah J Maas
+14,In Cold Blood,Truman Capote
+15,My Hero Academia,Horikoshi
